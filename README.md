@@ -52,7 +52,7 @@ This suggests that targeted interventions — such as ergonomic improvements in 
 
 ---
 
-## 📊 KPI Overview
+## KPI Overview
 
 This section presents the main HR metrics, including total employees, total absent hours, average absent hours, average age, and average length of service.
 
@@ -60,7 +60,7 @@ This section presents the main HR metrics, including total employees, total abse
 
 ---
 
-## 🔍 Absenteeism Analysis Dashboard
+## Absenteeism Analysis Dashboard
 
 This dashboard explores absenteeism by department and store, identifying which areas carry the highest burden and where targeted interventions could have the most impact.
 
@@ -68,7 +68,7 @@ This dashboard explores absenteeism by department and store, identifying which a
 
 ---
 
-## 🧑‍🤝‍🧑 Store & Workforce Insights
+## Store & Workforce Insights
 
 This view analyses absenteeism patterns by age, gender, and tenure, highlighting demographic factors that correlate with higher absent hours.
 
