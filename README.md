@@ -50,27 +50,27 @@ This suggests that targeted interventions — such as ergonomic improvements in 
 
 ---
 
-## 📊 KPI Overview
+## KPI Overview
 
 This section presents the main HR metrics, including total employees, total absent hours, average absent hours, average age, and average length of service.
 
-![KPI Overview](images/KPI%20Overview.png)
+![KPI Overview](images/KPI.png)
 
 ---
 
-## 🔍 Absenteeism Analysis Dashboard
+## Absenteeism Analysis Dashboard
 
 This dashboard explores absenteeism by department and store, identifying which areas carry the highest burden and where targeted interventions could have the most impact.
 
-![Absenteeism Analysis](images/Absenteeism%20Analysis.png)
+![Absenteeism Analysis](images/AbsenteeismAnalysis.png)
 
 ---
 
-## 🧑‍🤝‍🧑 Store & Workforce Insights
+## Store & Workforce Insights
 
 This view analyses absenteeism patterns by age, gender, and tenure, highlighting demographic factors that correlate with higher absent hours.
 
-![Store & Workforce Insights](images/Store%20%26%20Workforce%20Insights.png)
+![Store & Workforce Insights](images/Store_Workforce_Insights.png)
 
 ---
 
