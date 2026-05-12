@@ -6,15 +6,13 @@ This project analyses employee absenteeism in a manufacturing company to identif
 
 ## Overview
 
-• Total employees: 8,336
-
-• Total absent hours: 510.86
-
-• Average absent hours (Total absent hours / Total employees): 61.28
-
-• Average age: 42.01
-
-• Average tenure: 4.78 years
+| Metric | Value |
+|---|---|
+| Total Employees | 8,336 |
+| Total Absent Hours | 510.86 |
+| Average Absent Hours | 61.28 |
+| Average Age | 42.01 |
+| Average Tenure | 4.78 years |
 
 The dataset captures absenteeism hours per employee along with demographic attributes (age, gender, length of service) and organisational context (department, store location).
 
@@ -52,27 +50,27 @@ This suggests that targeted interventions — such as ergonomic improvements in 
 
 ---
 
-## KPI Overview
+## 📊 KPI Overview
 
 This section presents the main HR metrics, including total employees, total absent hours, average absent hours, average age, and average length of service.
 
-[![KPI Overview](images/KPI%20Overview.png)](images/KPI%20Overview.png)
+![KPI Overview](images/KPI%20Overview.png)
 
 ---
 
-## Absenteeism Analysis Dashboard
+## 🔍 Absenteeism Analysis Dashboard
 
 This dashboard explores absenteeism by department and store, identifying which areas carry the highest burden and where targeted interventions could have the most impact.
 
-[![Absenteeism Analysis](images/Absenteeism%20Analysis.png)](images/Absenteeism%20Analysis.png)
+![Absenteeism Analysis](images/Absenteeism%20Analysis.png)
 
 ---
 
-## Store & Workforce Insights
+## 🧑‍🤝‍🧑 Store & Workforce Insights
 
 This view analyses absenteeism patterns by age, gender, and tenure, highlighting demographic factors that correlate with higher absent hours.
 
-[![Store & Workforce Insights](images/Store%20%26%20Workforce%20Insights.png)](images/Store%20%26%20Workforce%20Insights.png)
+![Store & Workforce Insights](images/Store%20%26%20Workforce%20Insights.png)
 
 ---
 
