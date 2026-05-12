@@ -70,7 +70,7 @@ This dashboard explores absenteeism by department and store, identifying which a
 
 This view analyses absenteeism patterns by age, gender, and tenure, highlighting demographic factors that correlate with higher absent hours.
 
-![Store & Workforce Insights](images/Store_Workforce_Insights.png)
+![Store & Workforce Insights](images/Store&WorkforceInsights.png)
 
 ---
 
